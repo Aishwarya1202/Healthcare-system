@@ -1,0 +1,1 @@
+create table bill(bno int,pid int,medicine varchar(100),bill int);
